@@ -1,12 +1,19 @@
 # Site settings
-title:
-email:
+title: Vivek Srikrishnan
+email: vs498@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+  This is the personal website for Vivek Srikrishnan, Assistant Professor, Department of Biological & Environmental Engineering, Cornell University.
+baseurl: ""
+url: "viveks.me"
 
 twitter_username:
-github_username:
+github: vsrikrish
+
+office: 318 Riley-Robb Hall
+department: Biological & Environmental Engineering
+city: Ithaca, NY
+zip: 14853-5701
+labpage: https://srikrishnan-lab.github.io
 
 # Build settings
 markdown: kramdown
