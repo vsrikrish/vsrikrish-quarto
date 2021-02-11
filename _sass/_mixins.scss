@@ -1,4 +1,4 @@
-@mixin transition-all()
+	@mixin transition-all()
 {
     -webkit-transition: all 0.35s;
     -moz-transition: all 0.35s;
@@ -63,4 +63,15 @@
 @mixin serif-font()
 {
 	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+}
+
+@mixin social-media-icon($color, $transition){
+  -webkit-transition: $transition;
+  -o-transition: $transition;
+  -ms-transition: $transition;
+  -moz-transition: $transition;
+  transition: $transition;
+  &:hover{
+    color: $color;
+  }
 }
