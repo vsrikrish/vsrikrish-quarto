@@ -1,0 +1,18 @@
+$researchgate-color: #00d09d;
+$google-scholar-color: #4788ee;
+$cv-color: #000000;
+
+.ai-researchgate {
+  padding: 5px;
+  @include social-media-icon($researchgate-color, $icon-transition-time);
+}
+
+.ai-google-scholar {
+  padding: 5px;
+  @include social-media-icon($google-scholar-color, $icon-transition-time);
+}
+
+.ai-cv {
+  padding: 5px;
+  @include social-media-icon($cv-color, $icon-transition-time);
+}
