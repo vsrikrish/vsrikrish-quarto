@@ -317,7 +317,8 @@ header {
 
 // Contact
 #contact .fa {
-    color: $theme-dark;
+    background-color: $theme-dark;
+    color: white;
     font-size: 4em;
 }
 
@@ -348,4 +349,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-
