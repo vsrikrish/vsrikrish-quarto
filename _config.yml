@@ -3,7 +3,7 @@ title: Vivek Srikrishnan
 email: vs498@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
   This is the personal website for Vivek Srikrishnan, Assistant Professor,
-  Department of Biological & Environmental Engineering, Cornell University.
+  Department of Biological &amp; Environmental Engineering, Cornell University.
 baseurl: ""
 url: "https://viveks.me"
 
