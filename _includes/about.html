@@ -6,5 +6,17 @@
                 <p>I am a Visiting Assistant Professor in the <a href="https://bee.cals.cornell.edu">Department of Biological &amp; Environmental Engineering</a> at <a href="https://cornell.edu">Cornell University</a>. I am also an Assistant Research Professor in the <a href="https://eesi.psu.edu">Earth &amp; Environmental Systems Institute</a> at <a href="https://psu.edu">Penn State.</a></p>
                 <p>Most of my work concerns climate risk management: how do we facilitate resilience in the face of dynamic environmental hazards? My interdisciplinary, mission-oriented research addresses a broad set of problems, from flood risk management to energy-system investments. I work at the interface of systems engineering, earth science, data science, and decision science.</p>
             </div>
+            <div class="row">
+                <h3>More Information:</h3>
+                {% for link in site.links %}
+                <div class="col-sm-3 col-xs-6 text-center">
+                    <a href="{{ link.url }}">
+                        <i class="{{ link.iconset }} {{ link.iconset }}-{{ link.icon }} fa-3x"></i>
+                        <p>{{ link.title }}</p>
+                    </a>
+                </div>
+                {% endfor %}
+            </div>
+
         </div>
     </section>
