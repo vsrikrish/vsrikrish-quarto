@@ -2,16 +2,27 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: Your Awesome Site
-email: your-email@domain.com
-author: Your Name
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
+url: "https://viveks.me"
+title: Vivek Srikrishnan
+email: viveks@cornell.edu
+author: Vivek Srikrishnan
+description: > # "Write an awesome description for your new site here.
+  Climate, Risk, and Complex Systems @ Cornell BEE
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+baseurl: ""
+
+# ----------------------- #
+#   contact               #
+# ----------------------- #
+
+twitter_username:
+github: vsrikrish
+
+office: 318 Riley-Robb Hall
+department: Biological & Environmental Engineering
+city: Ithaca, NY
+zip: 14853-5701
+labpage: https://srikrishnan-lab.github.io
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -22,13 +33,33 @@ markdown: kramdown
 permalink: pretty
 
 # ----------------------- #
-#   3rd Party Settings    #
+#   Links                 #
 # ----------------------- #
 
-social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
-  - title: linkedin
-    url: 
+contact:
+  - title: Email Me
+    url: mailto:viveks@cornell.edu
+    iconset: fa
+    icon: envelope-o
+  - title: Schedule a Meeting
+    url: https://calendly.com/vsrikrish
+    iconset: fa
+    icon: calendar
+
+links:
+  - title: Research Group
+    url: https://srikrishnan-lab.github.io
+    iconset: fa
+    icon: home
+  - title: Curriculum Vitae
+    url: https://srikrishnan-lab.github.io/assets/pdf/Srikrishnan-CV.pdf
+    iconset: ai
+    icon: cv
+  - title: Google Scholar
+    url: https://scholar.google.com/citations?user=CY_JxugAAAAJ
+    iconset: ai
+    icon: google-scholar
+  - title: GitHub
+    url: https://github.com/vsrikrish
+    iconset: fa
+    icon: github
