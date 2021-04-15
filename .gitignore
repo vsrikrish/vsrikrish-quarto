@@ -3,7 +3,7 @@
 # Jekyll build
 _site/
 .jekyll-metadata
-.jekyll-cache/
+.jekyll-cache
 #Gemfile.lock
 assets/_site
 
