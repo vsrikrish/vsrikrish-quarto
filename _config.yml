@@ -22,7 +22,7 @@ office: 318 Riley-Robb Hall
 department: Biological & Environmental Engineering
 city: Ithaca, NY
 zip: 14853-5701
-labpage: https://srikrishnan-lab.github.io
+labpage: https://viveks.bee.cornell.edu
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -48,11 +48,11 @@ contact:
 
 links:
   - title: Research Group
-    url: https://srikrishnan-lab.github.io
+    url: https://viveks.bee.cornell.edu
     iconset: fa
     icon: home
   - title: Curriculum Vitae
-    url: https://srikrishnan-lab.github.io/assets/pdf/Srikrishnan-CV.pdf
+    url: https://viveks.me/assets/pdf/Srikrishnan-CV.pdf
     iconset: ai
     icon: cv
   - title: Google Scholar
