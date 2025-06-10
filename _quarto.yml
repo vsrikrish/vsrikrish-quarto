@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Vivek Srikrishnan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: now/index.qmd
+        text: Now
+      - href: research/index.qmd
+        text: Research
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: contact/index.qmd
+        text: Contact
+
+format:
+  html:
+format:
+  html:
+    theme: 
+      [default, styles/custom.scss]
+    toc: true
+
+
+
