@@ -1,0 +1,29 @@
+---
+title: What I'm Doing Now
+published-title: Last updated
+date: last-modified
+---
+
+This is my [now page](https://nownownow.com/about); I can't promise how up-to-date it is, but at least the last-updated date is printed!
+
+## What I'm Thinking About
+
+This list is not identical to what my group^[The people who do the real work, [my students and postdocs](https://viveks.bee.cornell.edu/people/index.html).] is working on; these are things I'm thinking about myself or with collaborators, at varying levels of maturity.
+
+- Changing meteorological extremes and their impacts on power system reliability, particularly correlated extremes across variables and/or space;
+- Probabilistic depth-damage relationships and implications for flood risk assessment;
+- Partial pooling of tide gauge measurements;
+- Ethical-epistemic implications of information criteria-based model selection;
+- Adaptive sampling for a variety of design-of-experiment problems with complex, high-dimensional model frameworks.
+- Quantifying the life-cycle implications, costs, and benefits of approaches to solar radiation management and/or carbon sequestration given future CO<sub>2</sub> emissions and Earth-system uncertainties.
+
+I'm [open to collaboration](../contact/index.qmd) on any of these topics, or anything else that you think I could contribute to.
+
+I'm also trying to force myself to do write some notebooks about these and other topics; we'll see how successful that is.
+
+## What I'm Doing Outside of Work
+
+- Tennis (not enough!);
+- Powerlifting;
+- Learning how to play the congas, particularly [Afro-Cuban rhythms](https://salsaithaca.com/2024/08/afro-cuban-percussion/).
+- Trying to get out and enjoy Ithaca in the summer.
