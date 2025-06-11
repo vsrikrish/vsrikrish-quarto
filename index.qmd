@@ -12,22 +12,18 @@ about:
   image: assets/images/vsrikrish.png
   image-alt: "Profile Picture"
   links:
-    - text: "{{< ai cv >}} Curriculum Vitae"
-      href: https://viveks.me/assets/pdf/Srikrishnan-CV.pdf
-    - icon: globe
-      text: Web
-      href: https://viveks.me
-    - icon: envelope
-      text: Email
+    - icon: "{{< fa people-group >}} Srikrishnan Group"
+      href: https://viveks.bee.cornell.edu
+    - icon: "{{< fa head-side >}} Faculty Profile"
+    - icon: "{{< fa envelope >}} Email"
       href: mailto:vs498@cornell.edu
-    - text: "{{< ai google-scholar >}} Google Scholar"
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=CY_JxugAAAAJ
-    - text: "{{< ai orcid >}} Orcid"
+    - text: "{{< fa brands orcid >}} Orcid"
       href: https://orcid.org/0000-0003-0049-3805
-    - text: "{{< ai researchgate >}} ResearchGate"
+    - text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Vivek-Srikrishnan
-    - icon: github
-      text: GitHub 
+    - icon: "{{< fa brands github >}} GitHub"
       href: https://github.com/vsrikrish
 ---
 
