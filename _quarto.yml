@@ -27,6 +27,8 @@ website:
     left:
       - href: index.qmd
         text: About
+      - href: cv/index.qmd
+        text: CV
       - href: now/index.qmd
         text: Now
       - href: contact/index.qmd

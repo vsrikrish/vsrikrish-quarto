@@ -12,22 +12,18 @@ about:
   image: assets/images/vsrikrish.png
   image-alt: "Profile Picture"
   links:
-    - text: "{{< ai cv >}} Curriculum Vitae"
-      href: https://viveks.me/assets/pdf/Srikrishnan-CV.pdf
-    - icon: globe
-      text: Web
-      href: https://viveks.me
-    - icon: envelope
-      text: Email
+    - text: "{{< fa solid people-group >}} Srikrishnan Group"
+      href: https://viveks.bee.cornell.edu
+    - text: "{{< fa solid id-card >}} Faculty Profile"
+    - text: "{{< fa envelope >}} Email"
       href: mailto:vs498@cornell.edu
-    - text: "{{< ai google-scholar >}} Google Scholar"
+    - text: "{{< fa brands google-scholar >}} Google Scholar"
       href: https://scholar.google.com/citations?hl=en&user=CY_JxugAAAAJ
-    - text: "{{< ai orcid >}} Orcid"
+    - text: "{{< fa brands orcid >}} Orcid"
       href: https://orcid.org/0000-0003-0049-3805
-    - text: "{{< ai researchgate >}} ResearchGate"
+    - text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Vivek-Srikrishnan
-    - icon: github
-      text: GitHub 
+    - text: "{{< fa brands github >}} GitHub"
       href: https://github.com/vsrikrish
 ---
 
@@ -35,7 +31,7 @@ about:
 
 :::{#about}
 
-I'm an Assistant Professor in the [Department of Biological & Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://cornell.edu). I received a Ph.D. in [Energy & Mineral Engineering](https://www.eme.psu.edu/) from [Penn State](https://psu.edu) in 2018.
+I'm an Assistant Professor in the [Department of Biological & Environmental Engineering](https://cals.cornell.edu/biological-environmental-engineering) at [Cornell University](https://cornell.edu). I am also a member of the Civil & Environmental Engineering, Systems Engineering, and Atmospheric Sciences graduate fields. I received a Ph.D. in [Energy & Mineral Engineering](https://www.eme.psu.edu/) from [Penn State](https://psu.edu) in 2018.
 
 My research focuses on managing climate risk, particularly in how  climate- and human-system uncertainties and human responses to environmental hazards influence the efficacy of climate risk management strategies. The overarching goal of this research is to help design robust approaches to reducing the impacts of climate change. I work on both mitigation (the reduction of greenhouse gas emissions) and adaptation, particularly focusing on flood risk and energy-system reliability. I am also deeply committed to open science and maximizing research transparency and reproducibility, which are essential for building credibility in climate risk projections and associated risk-management interventions. For more information on my research, please see [my research group's website](https://viveks.bee.cornell.edu).
 

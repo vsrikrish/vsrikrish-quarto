@@ -434,8 +434,8 @@ pre.text, pre.sourceCode, .cell-output pre {
 
 .cv-download {
     font-family: $headings-font-family;
-    background-color: #771C6D;
-    border-color: #771C6D;
+    background-color: #b31b1b;
+    border-color: #222222;
     color: $white;
 
     &:hover {
@@ -575,3 +575,4 @@ pre.text, pre.sourceCode, .cell-output pre {
   div.quarto-about-trestles {
     padding-bottom: 5em;
   }
+
