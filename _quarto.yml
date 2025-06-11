@@ -5,7 +5,6 @@ website:
   title: "Vivek Srikrishnan"
   site-url: "https://viveks.me"
   repo-url: "https://github.com/vsrikrish/vsrikrish-quarto"
-  favicon: assets/images/favicon.png
   twitter-card: true
   page-navigation: false
   search: true
