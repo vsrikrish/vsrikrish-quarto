@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "now/index.html",
+    "href": "now/index.html",
+    "title": "What I’m Doing Now",
+    "section": "",
+    "text": "This is my now page; I can’t promise how up-to-date it is, but at least the last-updated date is printed!"
+  },
+  {
+    "objectID": "now/index.html#what-im-thinking-about",
+    "href": "now/index.html#what-im-thinking-about",
+    "title": "What I’m Doing Now",
+    "section": "What I’m Thinking About",
+    "text": "What I’m Thinking About\nThis list is not identical to what my group1 is working on; these are things I’m thinking about myself or with collaborators, at varying levels of maturity.\n1 The people who do the real work, my students and postdocs.\nChanging meteorological extremes and their impacts on power system reliability, particularly correlated extremes across variables and/or space;\nProbabilistic depth-damage relationships and implications for flood risk assessment;\nPartial pooling of tide gauge measurements;\nEthical-epistemic implications of information criteria-based model selection;\nAdaptive sampling for a variety of design-of-experiment problems with complex, high-dimensional model frameworks.\nQuantifying the life-cycle implications, costs, and benefits of approaches to solar radiation management and/or carbon sequestration given future CO2 emissions and Earth-system uncertainties.\n\nI’m open to collaboration on any of these topics, or anything else that you think I could contribute to.\nI’m also trying to force myself to do write some notebooks about these and other topics; we’ll see how successful that is."
+  },
+  {
+    "objectID": "now/index.html#what-im-doing-outside-of-work",
+    "href": "now/index.html#what-im-doing-outside-of-work",
+    "title": "What I’m Doing Now",
+    "section": "What I’m Doing Outside of Work",
+    "text": "What I’m Doing Outside of Work\n\nTennis (not enough!);\nPowerlifting;\nLearning how to play the congas, particularly Afro-Cuban rhythms.\nTrying to get out and enjoy Ithaca in the summer."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vivek Srikrishnan",
+    "section": "",
+    "text": "Curriculum Vitae\n  \n  \n    \n     Web\n  \n  \n    \n     Email\n  \n  \n      Google Scholar\n  \n  \n      Orcid\n  \n  \n      ResearchGate\n  \n  \n    \n     GitHub\n  \n\n      \nI’m an Assistant Professor in the Department of Biological & Environmental Engineering at Cornell University. I received a Ph.D. in Energy & Mineral Engineering from Penn State in 2018.\nMy research focuses on managing climate risk, particularly in how climate- and human-system uncertainties and human responses to environmental hazards influence the efficacy of climate risk management strategies. The overarching goal of this research is to help design robust approaches to reducing the impacts of climate change. I work on both mitigation (the reduction of greenhouse gas emissions) and adaptation, particularly focusing on flood risk and energy-system reliability. I am also deeply committed to open science and maximizing research transparency and reproducibility, which are essential for building credibility in climate risk projections and associated risk-management interventions. For more information on my research, please see my research group’s website.\nI teach courses on environmental systems and environmental data analysis and statistics. All of my course materials are open-source and I welcome questions and feedback. I’ve also taught several other courses; for more information, see my teaching page"
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Vivek Srikrishnan\n\n\n\n\nvs498@cornell.edu\n\n\n\n(607) 654-3225\n\n\n\n318 Riley-Robb Hall\n\n\n\n\n\nMailing Address\nDepartment of Biological & Environmental Engineering  Cornell University  318 Riley-Robb Hall  111 Wing Drive  Ithaca, NY 14853-5701\n\n\nUseful Links\n\nCornell Visitor’s Guide\nParking Information\nCampus Map"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About This Website",
@@ -12,12 +47,5 @@
     "title": "About This Website",
     "section": "",
     "text": "This website was built using Quarto. It was inspired and borrowed code and styling from several personal and lab sites:\n\nAndrew Heiss\nJames Doss-Gollin\nDavid Masiello"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Vivek Srikrishnan",
-    "section": "",
-    "text": "Curriculum Vitae\n  \n  \n    \n     Web\n  \n  \n    \n     Email\n  \n  \n      Google Scholar\n  \n  \n      Orcid\n  \n  \n      ResearchGate\n  \n  \n    \n     GitHub\n  \n\n      \nI’m an Assistant Professor in the Department of Biological & Environmental Engineering at Cornell University. I received a Ph.D. in Energy & Mineral Engineering from Penn State in 2018.\nMy research focuses on managing climate risk, particularly in how climate- and human-system uncertainties and human responses to environmental hazards influence the efficacy of climate risk management strategies. The overarching goal of this research is to help design robust approaches to reducing the impacts of climate change. I work on both mitigation (the reduction of greenhouse gas emissions) and adaptation, particularly focusing on flood risk and energy-system reliability. I am also deeply committed to open science and maximizing research transparency and reproducibility, which are essential for building credibility in climate risk projections and associated risk-management interventions. For more information on my research, please see my research group’s website.\nI teach courses on environmental systems and environmental data analysis and statistics. All of my course materials are open-source and I welcome questions and feedback."
   }
 ]
