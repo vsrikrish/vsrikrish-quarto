@@ -1,5 +1,7 @@
 # Vivek Srikrishnan's personal website
 
-Basic landing page with links and contact info. For more information, see my [lab's website](https://srikrishnan-lab.github.io).
+<!-- badges: start -->
+![Site Status](https://img.shields.io/website?url=http%3A//viveks.me)
+<!-- badges: end -->
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Source files for [my personal website](https://viveks.me), built using [Quarto](https://quarto.org/).
