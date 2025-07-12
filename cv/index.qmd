@@ -14,4 +14,4 @@ published-title: CV last updated
   </a>
 </p>
 
-{{< pdf ../assets/pdf/Srikrishnan-CV.pdf width=100% height=600 border=2 image=../assets/pdf/Srikrishnan-CV.pdf image_width=100% image_border=2 >}}
+![](../assets/pdf/Srikrishnan-CV.pdf){width=100% height=600}
