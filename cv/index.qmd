@@ -1,7 +1,11 @@
 ---
 title: Curriculum Vitæ
 freeze: false
+date-format: long
+date: 07/12/2025
 ---
+
+
 
 <p class="text-center">
   <a class="btn btn-primary btn-lg cv-download" href="../assets/pdf/Srikrishnan-CV.pdf" target="_blank">
