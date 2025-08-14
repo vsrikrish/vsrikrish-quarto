@@ -10,7 +10,7 @@ freeze: false
 link-citations: true
 citations-hover: true
 bibliography: llms.bib
-csl: nature.csl
+csl: pnas.csl
 ---
 
 This is my [/ai page](https://www.bydamo.la/p/ai-manifesto), where, in the interest of full transparency, I make explicit how I use AI in my work and what the underlying thoughts and principles are that guide that usage.
