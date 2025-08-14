@@ -13,7 +13,7 @@ bibliography: llms.bib
 csl: pnas.csl
 ---
 
-This is my [/ai page](https://www.bydamo.la/p/ai-manifesto), where, in the interest of full transparency, I make explicit how I use AI in my work and what the underlying thoughts and principles are that guide that usage.
+This is my [/ai page](https://www.bydamo.la/p/ai-manifesto), where, in the interest of full transparency, I make explicit how I use AI in my work and what my underlying thoughts and principles are that guide that usage.
 
 ## Usage
 
@@ -27,7 +27,7 @@ I also try to block AI bots from accessing and scraping from parsing this and an
 
 I enjoy the act (and sometimes struggle!) of writing and programming. While LLMs can be helpful tools for certain things, they are useless (or at least awful) for others, and always involve ethical and environmental tradeoffs that should be navigated intentionally. 
 
-I am not opposed to the *thoughtful* use of LLMs. Contrary to the endless hype and marketing served by their creators and the media, these tools have strong limitations and over-reliance on them can greatly impede the discovery and learning processes. As Ted Chiang wrote, ["Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.”](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)[@Chiang2024-zt]
+I am not opposed to the *thoughtful* and *targeted* use of LLMs. These are clearly cases where they can be helpful for specific purposes in specific workflows, though I have not found any of those compelling for my own work. Contrary to the endless hype and marketing served by their creators and the media, these tools have strong limitations and over-reliance on them can greatly impede the discovery and learning processes. As Ted Chiang wrote, ["Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.”](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)[@Chiang2024-zt]
 
 **Moreover**:
 
