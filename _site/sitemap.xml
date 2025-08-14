@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://viveks.me/cv/index.html</loc>
-    <lastmod>2025-07-12T21:35:50.121Z</lastmod>
+    <lastmod>2025-08-14T13:10:50.842Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/about.html</loc>
-    <lastmod>2025-06-10T21:47:27.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://viveks.me/contact/index.html</loc>
-    <lastmod>2025-06-11T00:52:29.901Z</lastmod>
+    <loc>https://viveks.me/now/index.html</loc>
+    <lastmod>2025-06-15T14:05:31.453Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/index.html</loc>
     <lastmod>2025-06-12T11:09:00.495Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/now/index.html</loc>
-    <lastmod>2025-06-15T14:05:31.453Z</lastmod>
+    <loc>https://viveks.me/contact/index.html</loc>
+    <lastmod>2025-06-11T00:52:29.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://viveks.me/about.html</loc>
+    <lastmod>2025-06-10T21:47:27.647Z</lastmod>
+  </url>
+  <url>
+    <loc>https://viveks.me/ai/index.html</loc>
+    <lastmod>2025-08-14T15:55:26.701Z</lastmod>
   </url>
 </urlset>
