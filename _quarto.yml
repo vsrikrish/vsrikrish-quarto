@@ -30,6 +30,8 @@ website:
         text: CV
       - href: now/index.qmd
         text: Now
+      - href: ai/index.qmd
+        text: AI
       - href: contact/index.qmd
         text: Contact
 
