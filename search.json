@@ -7,18 +7,53 @@
     "text": "Srikrishnan Group\n  \n  \n      Faculty Profile\n  \n  \n      Email\n  \n  \n      Google Scholar\n  \n  \n      Orcid\n  \n  \n      ResearchGate\n  \n  \n      GitHub\n  \n\n      \nI’m an Assistant Professor in the Department of Biological & Environmental Engineering at Cornell University. I am also a member of the Civil & Environmental Engineering, Systems Engineering, and Atmospheric Sciences graduate fields. I received a Ph.D. in Energy & Mineral Engineering from Penn State in 2018.\nMy research focuses on managing climate risk, particularly in how climate- and human-system uncertainties and human responses to environmental hazards influence the efficacy of climate risk management strategies. The overarching goal of this research is to help design robust approaches to reducing the impacts of climate change. I work on both mitigation (the reduction of greenhouse gas emissions) and adaptation, particularly focusing on flood risk and energy-system reliability. I am also deeply committed to open science and maximizing research transparency and reproducibility, which are essential for building credibility in climate risk projections and associated risk-management interventions. For more information on my research, please see my research group’s website.\nI teach courses on environmental systems and environmental data analysis and statistics. All of my course materials are open-source and I welcome questions and feedback. I’ve also taught several other courses; for more information, see my teaching page"
   },
   {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
+    "objectID": "ai/index.html",
+    "href": "ai/index.html",
+    "title": "AI",
     "section": "",
-    "text": "Vivek Srikrishnan\n\n\n\n\nvs498@cornell.edu\n\n\n\n(607) 654-3225\n\n\n\n318 Riley-Robb Hall\n\n\n\n\n\nMailing Address\nDepartment of Biological & Environmental Engineering  Cornell University  318 Riley-Robb Hall  111 Wing Drive  Ithaca, NY 14853-5701\n\n\nUseful Links\n\nCornell Visitor’s Guide\nParking Information\nCampus Map"
+    "text": "This is my /ai page, where, in the interest of full transparency, I make explicit how I use AI in my work and what the underlying thoughts and principles are that guide that usage."
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitæ",
-    "section": "",
-    "text": "Download current CV"
+    "objectID": "ai/index.html#usage",
+    "href": "ai/index.html#usage",
+    "title": "AI",
+    "section": "Usage",
+    "text": "Usage\nNone of the content on this website or my lab group’s website were written, in part or in full, by a generative AI tool (more specifically, large language models, or LLMs).\nI do not, and will not, intentionally write text or generate figures using LLMs (though with the increasing integration of these tools into word processors, some usage may leak in accidentally). I have occasionally (not often!) used LLMs to generate starter code for certain programming tasks (web scraping, for example), but debug and refine this code manually.\nI also try to block AI bots from accessing and scraping from parsing this and any other websites I create using the associated robots.txt: any scraping that occurs is in violation of this access condition."
+  },
+  {
+    "objectID": "ai/index.html#principles",
+    "href": "ai/index.html#principles",
+    "title": "AI",
+    "section": "Principles",
+    "text": "Principles\nI enjoy the act (and sometimes struggle!) of writing and programming. While LLMs can be helpful tools for certain things, they are useless (or at least awful) for others, and always involve ethical and environmental tradeoffs that should be navigated intentionally.\nI am not opposed to the thoughtful use of LLMs. Contrary to the endless hype and marketing served by their creators and the media, these tools have strong limitations and over-reliance on them can greatly impede the discovery and learning processes. As Ted Chiang wrote, “Using ChatGPT to complete assignments is like bringing a forklift into the weight room; you will never improve your cognitive fitness that way.”1\nMoreover:\n\nThe scalable models are provided at a great monetary loss to their companies, which means they might be far more expensive (or even not available) in the future — do you want to be dependent on them if that occurs? At the same time, AI companies have been responsible for 60% of the stock market’s growth between 2023–2025, and AI capital expenditures, as a function of GDP, have outpaced those during the dot-com boom. The combination of these factors suggests that the U.S. economy is in the middle of an unsustainable bubble driven by AI hype\nThey do not reason the way humans do and, even so-called “reasoning models” will only generate statistically-plausible text when asked to explain their output. This informs some of the thoughts on applications below: in cases where LLM output is used as a jumping off point and everything will be manually checked, this limitation is not as important, but if LLMs are being used to “answer” a question…good luck.\nData centers used to train large-scale LLMs also have large environmental impacts, increasing electricity and water demands and placing an increasing strain on our already-straining infrastructure systems.\nIf the output of these models isn’t legally plagiarism, it isn’t functionally far off.\n“AI”, as currently discussed and deployed, is a political project, and we should reckon with the implications of that project every time we use these tools or products which integrate them. That doesn’t mean these tools shouldn’t be used, but they should be used deliberately and with an understanding that we are engaging in a task that is, at best, ethically dubious."
+  },
+  {
+    "objectID": "ai/index.html#text",
+    "href": "ai/index.html#text",
+    "title": "AI",
+    "section": "Text",
+    "text": "Text\nI am opposed to the use of LLMs for writing other than formulaic tasks like re-formatting existing text or tweaking grammar (particularly if English is a second language)1. The process of writing is the process of thinking2; using LLMs to write means your ideas are likely to be half-baked and you are less likely to understand feedback because you did not think through and articulate your ideas2. Moreover, LLMs flatten styles, even with prompt engineering: I find reading LLM-generated text to be an uninspiring slog. To paraphrase Sabrine Zetteler, why would I want to read something that the “author” couldn’t bother to put effort into writing?\n1 But I still don’t like using tools for these purposes: changing grammar can change the ways sentences parse and communicate meaning2 As far as I can tell, much of the appeal of using LLMs to generate text is to avoid the struggle of refining ideas through writing.The fundamental problem with LLMs is that they are bullshit generators3,4. Bullshit, in the philosophical sense, is text produced without care for the truth5. It is not a lie, which specifically exists in opposition of truth, or a mistake, which is subject to correction when exposed to divergence from the truth, but it is agnostic to the truth; it simply exists to make the author sound like an authority. Truth simply does not matter to a bullshitter.\nLLMs literally exist only to produce bullshit. They use a predictive statistical model to guess what next word (or sequence of words) is likely; there is no reference to whether the underlying idea produced by this sequence of words is truthful or even coherent3. This means that, once an LLM goes off track, they are subject to wild hallucinations where they may invent concepts or artifacts (books, articles, etc) that do not exist, merely because they seem plausible as a string of text4. This fundamentally affects the reliability of LLM results for information retrieval5. Additionally, given that LLMs are trained on publicly available text, an increasing amount of which is now generated by LLMs (so-called “AI slop”), the uncritical use of these results can just perpetuate the bullshit cycle.\n3 To paraphrase Cosma Shalizi, the appearance that LLMs “reason” or have insights is an ember of autoregression sprinkled with wishful mnemonics4 Even worse, there is evidence that LLMs will just give a plausible-seeming argument instead of following logical steps or transparently communicating their reasoning, even when they are instructed to make their reasoning transparent.5 As put by computational linguist Emily Bender, “If someone uses an LLM as a replacement for search, and the output they get is correct, this is just by chance. Furthermore, a system that is right 95% of the time is arguably more dangerous tthan [sic] one that is right 50% of the time. People will be more likely to trust the output, and likely less able to fact check the 5%.” It’s worth reading the whole post about how using LLM summaries as a substitute for search harms information literacy and disrupts sense-making processes."
+  },
+  {
+    "objectID": "ai/index.html#images-and-video",
+    "href": "ai/index.html#images-and-video",
+    "title": "AI",
+    "section": "Images and Video",
+    "text": "Images and Video\nI find the style of LLM-generated “art” to be, worse than uninteresting: it’s actively off-putting and repulsive. I’m not opposed to using machine learning for targeted tasks, like color fills and object selection, is fine, but LLMs being shoehorned onto those tasks is unnecessary and kind of like using a sledgehammer to crack a nut."
+  },
+  {
+    "objectID": "ai/index.html#research",
+    "href": "ai/index.html#research",
+    "title": "AI",
+    "section": "Research",
+    "text": "Research\nUsing LLMs as a substitute for literature reviews and idea synthesis short-cuts the learning and thinking process1 and can often result in the insertion of hallucinations. LLMs can also lead to dangerous spiraling behavior by encouraging incorrect ideas and thoughts.\nAs always, there are much more limited applications where LLMs could be useful. I can imagine that using an LLM to give a starting set of references, which will be read manually, might be more useful to some people than slogging through Google Scholar6. Hallucinations would therefore not be an issue: you just wouldn’t find those articles, and you can expand your review by following citations and references.\n6 It might also be useful to use an LLM to generate a set of search terms for Google Scholar."
+  },
+  {
+    "objectID": "ai/index.html#programming",
+    "href": "ai/index.html#programming",
+    "title": "AI",
+    "section": "Programming",
+    "text": "Programming\nWhile I personally don’t often use LLMs for any programming tasks7, I’m not opposed to their use in the same way that I am with writing. In my experience, LLM autocompletions aren’t great, but they’re fine8, and scientific programming is not necessarily focused on efficiency at all costs. Using LLMs to translate code between languages, to generate documentation, and to interpret error messages are all very reasonable.\n7 Debugging is frustrating, but it teaches me something about the language.8 Just beware of slopsquatting!"
   },
   {
     "objectID": "now/index.html",
@@ -40,6 +75,20 @@
     "title": "What I’m Doing Now",
     "section": "What I’m Doing Outside of Work",
     "text": "What I’m Doing Outside of Work\n\nTennis (not enough!);\nPowerlifting;\nLearning how to play the congas, particularly Afro-Cuban rhythms.\nTrying to get out and enjoy Ithaca in the summer.\nListening to podcasts; some of my favorites:\n\nTech Won’t Save Us\nQAnon Anonymous\nIron Culture\nIf Books Could Kill\nMaintenance Phase\n99% Invisible"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Vivek Srikrishnan\n\n\n\n\nvs498@cornell.edu\n\n\n\n(607) 654-3225\n\n\n\n318 Riley-Robb Hall\n\n\n\n\n\nMailing Address\nDepartment of Biological & Environmental Engineering  Cornell University  318 Riley-Robb Hall  111 Wing Drive  Ithaca, NY 14853-5701\n\n\nUseful Links\n\nCornell Visitor’s Guide\nParking Information\nCampus Map"
   },
   {
     "objectID": "about.html",
