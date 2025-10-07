@@ -2,7 +2,7 @@
 title: Curriculum Vitæ
 freeze: false
 date-format: long
-date: 10/01/2025
+date: 10/07/2025
 published-title: CV last updated
 ---
 
