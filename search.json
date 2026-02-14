@@ -1,33 +1,5 @@
 [
   {
-    "objectID": "contact/index.html",
-    "href": "contact/index.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Vivek Srikrishnan\n\n\n\n\nvs498@cornell.edu\n\n\n\n(607) 654-3225\n\n\n\n318 Riley-Robb Hall\n\n\n\n\n\nMailing Address\nDepartment of Biological & Environmental Engineering  Cornell University  318 Riley-Robb Hall  111 Wing Drive  Ithaca, NY 14853-5701\n\n\nUseful Links\n\nCornell Visitor’s Guide\nParking Information\nCampus Map"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About This Website",
-    "section": "",
-    "text": "This website was built using Quarto. It was inspired and borrowed code and styling from several personal and lab sites:\n\nAndrew Heiss\nJames Doss-Gollin\nDavid Masiello"
-  },
-  {
-    "objectID": "about.html#acknowledgements",
-    "href": "about.html#acknowledgements",
-    "title": "About This Website",
-    "section": "",
-    "text": "This website was built using Quarto. It was inspired and borrowed code and styling from several personal and lab sites:\n\nAndrew Heiss\nJames Doss-Gollin\nDavid Masiello"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Vivek Srikrishnan",
-    "section": "",
-    "text": "Srikrishnan Group\n  \n  \n      Faculty Profile\n  \n  \n      Email\n  \n  \n      Google Scholar\n  \n  \n      Orcid\n  \n  \n      ResearchGate\n  \n  \n      GitHub\n  \n\n      \nI’m an Assistant Professor in the Department of Biological & Environmental Engineering at Cornell University. I am also a member of the Civil & Environmental Engineering, Systems Engineering, and Atmospheric Sciences graduate fields. I received a Ph.D. in Energy & Mineral Engineering from Penn State in 2018.\nMy research focuses on managing climate risk, particularly in how climate- and human-system uncertainties and human responses to environmental hazards influence the efficacy of climate risk management strategies. The overarching goal of this research is to help design robust approaches to reducing the impacts of climate change. I work on both mitigation (the reduction of greenhouse gas emissions) and adaptation, particularly focusing on flood risk and energy-system reliability. I am also deeply committed to open science and maximizing research transparency and reproducibility, which are essential for building credibility in climate risk projections and associated risk-management interventions. For more information on my research, please see my research group’s website.\nI teach courses on environmental systems and environmental data analysis and statistics. All of my course materials are open-source and I welcome questions and feedback. I’ve also taught several other courses; for more information, see my teaching page"
-  },
-  {
     "objectID": "ai/index.html",
     "href": "ai/index.html",
     "title": "AI",
@@ -77,6 +49,41 @@
     "text": "Programming\nWhile I personally don’t often use LLMs for any programming tasks6, I’m not opposed to their use in the same way that I am with writing. In my experience, LLM autocompletions aren’t great, but they’re fine7, and scientific programming is not necessarily focused on efficiency at all costs. Using LLMs to translate code between languages, to generate documentation, and to interpret error messages are all very reasonable.\n6 Debugging is frustrating, but it teaches me something about the language.7 Just beware of slopsquatting!"
   },
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About This Website",
+    "section": "",
+    "text": "This website was built using Quarto. It was inspired and borrowed code and styling from several personal and lab sites:\n\nAndrew Heiss\nJames Doss-Gollin\nDavid Masiello"
+  },
+  {
+    "objectID": "about.html#acknowledgements",
+    "href": "about.html#acknowledgements",
+    "title": "About This Website",
+    "section": "",
+    "text": "This website was built using Quarto. It was inspired and borrowed code and styling from several personal and lab sites:\n\nAndrew Heiss\nJames Doss-Gollin\nDavid Masiello"
+  },
+  {
+    "objectID": "contact/index.html",
+    "href": "contact/index.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Vivek Srikrishnan\n\n\n\n\nvs498@cornell.edu\n\n\n\n(607) 654-3225\n\n\n\n318 Riley-Robb Hall\n\n\n\n\n\nMailing Address\nDepartment of Biological & Environmental Engineering  Cornell University  318 Riley-Robb Hall  111 Wing Drive  Ithaca, NY 14853-5701\n\n\nUseful Links\n\nCornell Visitor’s Guide\nParking Information\nCampus Map"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Vivek Srikrishnan",
+    "section": "",
+    "text": "Srikrishnan Group\n  \n  \n      Faculty Profile\n  \n  \n      Email\n  \n  \n      Google Scholar\n  \n  \n      Orcid\n  \n  \n      ResearchGate\n  \n  \n      GitHub\n  \n\n      \nI’m an Assistant Professor in the Department of Biological & Environmental Engineering at Cornell University. I am also a member of the Civil & Environmental Engineering, Systems Engineering, and Atmospheric Sciences graduate fields. I received a Ph.D. in Energy & Mineral Engineering from Penn State in 2018.\nMy research focuses on managing climate risk, particularly in how climate- and human-system uncertainties and human responses to environmental hazards influence the efficacy of climate risk management strategies. The overarching goal of this research is to help design robust approaches to reducing the impacts of climate change. I work on both mitigation (the reduction of greenhouse gas emissions) and adaptation, particularly focusing on flood risk and energy-system reliability. I am also deeply committed to open science and maximizing research transparency and reproducibility, which are essential for building credibility in climate risk projections and associated risk-management interventions. For more information on my research, please see my research group’s website.\nI teach courses on environmental systems and environmental data analysis and statistics. All of my course materials are open-source and I welcome questions and feedback. I’ve also taught several other courses; for more information, see my teaching page"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitæ",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
     "objectID": "now/index.html",
     "href": "now/index.html",
     "title": "What I’m Doing Now",
@@ -96,12 +103,5 @@
     "title": "What I’m Doing Now",
     "section": "What I’m Doing Outside of Work",
     "text": "What I’m Doing Outside of Work\n\nTennis (not enough!);\nPowerlifting;\nWatching movies;\nLearning how to play the conga, particularly Afro-Cuban rhythms.\nTrying to get out and enjoy Ithaca.\nListening to podcasts; some of my favorites:\n\nTech Won’t Save Us\nQAnon Anonymous\nBehind the Bastards\nIf Books Could Kill\nMaintenance Phase\n99% Invisible"
-  },
-  {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitæ",
-    "section": "",
-    "text": "Download current CV"
   }
 ]
