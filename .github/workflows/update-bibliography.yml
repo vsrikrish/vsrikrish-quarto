@@ -1,0 +1,29 @@
+name: Update bibliography submodule
+
+on:
+  repository_dispatch:
+    types: [ push-bib ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Update bibliography submodule
+        run: git submodule update --remote cv/bibliography
+      - name: Commit
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add cv/bibliography
+          git diff --staged --quiet || git commit -m "update bibliography submodule"
+      - name: Push
+        run: git push
