@@ -4,6 +4,10 @@ freeze: false
 date-format: long
 date: 05/12/2026
 published-title: CV last updated
+toc: true
+toc-depth: 1
+toc-title: Contents
+page-layout: article
 ---
 
 <p class="text-center">
@@ -12,7 +16,9 @@ published-title: CV last updated
   </a>
 </p>
 
-::: {.cv-page}
+```{=html}
+<div class="cv-page">
+```
 
 {{< cv-header >}}
 
@@ -98,4 +104,6 @@ published-title: CV last updated
 
 {{< cv-section experience >}}
 
-:::
+```{=html}
+</div>
+```
