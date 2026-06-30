@@ -488,37 +488,13 @@ local function headerLatex(meta)
   return cat(table.unpack(parts))
 end
 
+-- The affiliation/address/contact-links block is dropped on the website
+-- (it's already shown via the navbar/contact page) -- just the name and
+-- job title remain.
 local function headerHtml(meta)
   local p = meta.person
-  local addr = p.address
   local parts = {}
-  raw(parts, "html", '<div class="cv-header"><div class="cv-contact"><p class="cv-affiliation"><a href="')
-  table.insert(parts, I(p.affiliation_link))
-  raw(parts, "html", '">')
-  table.insert(parts, I(p.affiliation))
-  raw(parts, "html", '</a><br>')
-  table.insert(parts, I(addr.line1))
-  raw(parts, "html", ', ')
-  table.insert(parts, I(addr.line2))
-  raw(parts, "html", '<br>')
-  table.insert(parts, I(addr.postcode))
-  raw(parts, "html", ', ')
-  table.insert(parts, I(addr.country))
-  raw(parts, "html", '</p><p class="cv-links"><a href="mailto:')
-  table.insert(parts, I(p.email))
-  raw(parts, "html", '"><i class="fa-solid fa-envelope"></i> ')
-  table.insert(parts, I(p.email))
-  raw(parts, "html", '</a><a href="')
-  table.insert(parts, I(p.web))
-  raw(parts, "html", '"><i class="fa-solid fa-globe"></i> ')
-  table.insert(parts, I(p.web))
-  raw(parts, "html", '</a><a href="https://github.com/')
-  table.insert(parts, I(p.github))
-  raw(parts, "html", '"><i class="fa-brands fa-github"></i> ')
-  table.insert(parts, I(p.github))
-  raw(parts, "html", '</a><a href="https://scholar.google.com/citations?user=')
-  table.insert(parts, I(p.googlescholar))
-  raw(parts, "html", '"><i class="fa-solid fa-graduation-cap"></i> Google Scholar</a></p></div><div class="cv-name">')
+  raw(parts, "html", '<div class="cv-header"><div class="cv-name">')
   table.insert(parts, I(p.first_name))
   raw(parts, "html", ' ')
   table.insert(parts, I(p.last_name))

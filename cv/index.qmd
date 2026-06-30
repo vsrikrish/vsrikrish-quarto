@@ -1,8 +1,6 @@
 ---
 title: Curriculum Vitæ
 freeze: false
-date-format: long
-date: 05/12/2026
 published-title: CV last updated
 toc: true
 toc-depth: 1
