@@ -19,6 +19,8 @@ jobs:
           fetch-depth: 0
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
       - name: Render
         uses: quarto-dev/quarto-actions/render@v2
       - name: Deploy
