@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://viveks.me/cv/index.html</loc>
-    <lastmod>2026-06-30T18:11:22.623Z</lastmod>
-  </url>
-  <url>
-    <loc>https://viveks.me/now/index.html</loc>
+    <loc>https://viveks.me/ai/index.html</loc>
     <lastmod>2026-03-01T10:13:04.134Z</lastmod>
-  </url>
-  <url>
-    <loc>https://viveks.me/index.html</loc>
-    <lastmod>2025-06-12T11:09:00.495Z</lastmod>
-  </url>
-  <url>
-    <loc>https://viveks.me/contact/index.html</loc>
-    <lastmod>2025-06-11T00:52:29.901Z</lastmod>
   </url>
   <url>
     <loc>https://viveks.me/about.html</loc>
     <lastmod>2026-06-30T17:51:41.022Z</lastmod>
   </url>
   <url>
-    <loc>https://viveks.me/ai/index.html</loc>
+    <loc>https://viveks.me/contact/index.html</loc>
+    <lastmod>2025-06-11T00:52:29.901Z</lastmod>
+  </url>
+  <url>
+    <loc>https://viveks.me/index.html</loc>
+    <lastmod>2025-06-12T11:09:00.495Z</lastmod>
+  </url>
+  <url>
+    <loc>https://viveks.me/now/index.html</loc>
     <lastmod>2026-03-01T10:13:04.134Z</lastmod>
+  </url>
+  <url>
+    <loc>https://viveks.me/cv/index.html</loc>
+    <lastmod>2026-06-30T18:19:08.713Z</lastmod>
   </url>
 </urlset>

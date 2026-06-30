@@ -1,5 +1,7 @@
 project:
   type: website
+  post-render:
+    - cv/post-render.sh
 
 website:
   title: "Vivek Srikrishnan"
