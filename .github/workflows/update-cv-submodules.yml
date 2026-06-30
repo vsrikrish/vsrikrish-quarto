@@ -1,8 +1,8 @@
-name: Update bibliography submodule
+name: Update CV submodules
 
 on:
   repository_dispatch:
-    types: [ push-bib ]
+    types: [ push-bib, push-cv-data ]
   workflow_dispatch:
 
 permissions:
@@ -17,13 +17,13 @@ jobs:
         with:
           submodules: true
           fetch-depth: 0
-      - name: Update bibliography submodule
-        run: git submodule update --remote cv/bibliography
+      - name: Update cv/bibliography and cv/data submodules
+        run: git submodule update --remote cv/bibliography cv/data
       - name: Commit
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add cv/bibliography
-          git diff --staged --quiet || git commit -m "update bibliography submodule"
+          git add cv/bibliography cv/data
+          git diff --staged --quiet || git commit -m "update cv submodules"
       - name: Push
         run: git push
