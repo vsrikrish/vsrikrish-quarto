@@ -1,0 +1,6 @@
+[submodule "cv/data"]
+	path = cv/data
+	url = https://github.com/vsrikrish/cv-data.git
+[submodule "cv/bibliography"]
+	path = cv/bibliography
+	url = https://github.com/vsrikrish/bibliography.git

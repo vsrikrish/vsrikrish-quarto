@@ -1,0 +1,22 @@
+# Scoped to the cv/ directory: merges the CV data submodule into metadata
+# and registers the CV's shortcodes, without affecting the rest of the site.
+metadata-files:
+  - data/person.yml
+  - data/interests.yml
+  - data/appointments.yml
+  - data/education.yml
+  - data/talks.yml
+  - data/workshops.yml
+  - data/grants.yml
+  - data/projects.yml
+  - data/teaching.yml
+  - data/advising.yml
+  - data/committee.yml
+  - data/awards.yml
+  - data/outreach.yml
+  - data/service.yml
+  - data/experience.yml
+
+shortcodes:
+  - filters/cv-sections.lua
+  - filters/cv-bibliography.lua
